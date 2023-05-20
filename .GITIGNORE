@@ -1,0 +1,4 @@
+.spyproject*
+results.csv
+vars.pkl
+*.jpg

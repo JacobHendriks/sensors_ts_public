@@ -1,0 +1,7 @@
+psycopg2
+faker # pip install faker
+pandas
+numpy
+psycopg2
+timeit
+tqdm
