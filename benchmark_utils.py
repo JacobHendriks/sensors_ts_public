@@ -100,7 +100,7 @@ def get_metadata(params):
             'component_name' : random.choice(['input ', 'output ', 'idler ', 'emotional support ']) + component_type,
             'component_type' : component_type,
             'install_date' : fake.date(),
-            'replaced_by' : fake.date()
+            'replaced_date' : fake.date()
             })
 
     # Generate some sensors
